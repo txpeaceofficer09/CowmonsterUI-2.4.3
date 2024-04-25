@@ -1,0 +1,6 @@
+## Interface: 20400
+## Title: PlayerItemLevel
+## Notes: Adds glow border on items on the inspect and character views as well as item level for each item and an average item level for equipped items.
+## Author: FuzeeWuzee
+## Version: 1.0.2
+Core.lua

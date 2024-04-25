@@ -1,0 +1,14 @@
+<Bindings>
+	<Binding name="ACTIONBAR2BUTTON1" header="ACTIONBAR2" />
+	<Binding name="ACTIONBAR2BUTTON2" />
+	<Binding name="ACTIONBAR2BUTTON3" />
+	<Binding name="ACTIONBAR2BUTTON4" />
+	<Binding name="ACTIONBAR2BUTTON5" />
+	<Binding name="ACTIONBAR2BUTTON6" />
+	<Binding name="ACTIONBAR2BUTTON7" />
+	<Binding name="ACTIONBAR2BUTTON8" />
+	<Binding name="ACTIONBAR2BUTTON9" />
+	<Binding name="ACTIONBAR2BUTTON10" />
+	<Binding name="ACTIONBAR2BUTTON11" />
+	<Binding name="ACTIONBAR2BUTTON12" />
+</Bindings>

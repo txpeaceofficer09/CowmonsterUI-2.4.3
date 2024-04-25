@@ -1,0 +1,8 @@
+## Interface: 20400
+## Title: CowmonsterUI
+## Notes: A complete replacement for the bottom half of the UI.
+## Author: Cowmonster (http://www.wowinterface.com)
+## Version: 1.0.3
+## SavedVariables: CowmonsterUIDB
+Core.lua
+Functions.lua
